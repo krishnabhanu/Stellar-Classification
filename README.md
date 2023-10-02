@@ -1,1 +1,2 @@
-# Stellar-Classification
+# Stellar-Classification using Machine Learning
+
